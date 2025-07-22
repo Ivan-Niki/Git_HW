@@ -1,0 +1,4 @@
+name: Ivan Nikitenko;
+age: 37;
+pets: 2;
+salary: 5000$;
