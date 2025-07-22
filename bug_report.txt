@@ -1,1 +1,18 @@
+ID: BR_001
 
+Summary:
+Breadcrumbs [ Home > Catalog  > ] is displayed on the page “Laptops”
+
+Severity: minor
+
+Steps:
+1. Navigate to super-shop.com;
+2. Click the “Catalog” link;
+3. Click the “Laptops” link;
+4. Pay attention to the breadcrumbs on the page.
+
+Expected Result:
+Breadcrumbs [ Home > Catalog  > Laptops ]  is displayed on the page
+
+Actual Result:
+Breadcrumbs [ Home > Catalog  > ]  is displayed on the page
