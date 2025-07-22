@@ -1,0 +1,11 @@
+Skills to be learned:
+1) The theory of AQA;
+2) Version Control Systems - Git, GitHub;   
+3) JavaScript;  
+4) TypeScript;  
+5) UI testing with Playwright;  
+6) AQA - Page Object Model;  
+7) AQA - API testing basics;
+8) AQA - API controllers and wrappers;
+9) AQA - CI/CD, Docker;
+10) AQA - WebdriverIO + mocha.
