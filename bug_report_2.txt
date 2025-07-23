@@ -1,0 +1,17 @@
+ID: BR_001_2
+
+Summary:
+The price of the book is not displayed in the book card “Learn Python”
+
+Severity: major
+
+Steps:
+1. Navigate to super-shop.com;
+2. Select "Programming" checkbox in the "Topic" filter;
+3. Pay attention to the book card “Learn Python”.
+
+Expected Result:
+The price of the book is displayed
+
+Actual Result:
+The price of the book is not displayed
