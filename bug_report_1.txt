@@ -1,0 +1,17 @@
+ID: BR_001_1
+
+Summary:
+The name of the book's author is not displayed in the book card “How to learn JS”
+
+Severity: minor
+
+Steps:
+1. Navigate to super-shop.com;
+2. Select "Programming" checkbox in the "Topic" filter;
+3. Pay attention to the book card “How to learn JS”.
+
+Expected Result:
+The name of the book's author is displayed in the book card
+
+Actual Result:
+The name of the book's author is not displayed in the book card
